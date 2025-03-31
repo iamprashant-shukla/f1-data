@@ -1,0 +1,137 @@
+{
+  "2025_Driver_Standings": [
+    {
+      "Pos": 1,
+      "Driver": "Lando Norris",
+      "Nationality": "GBR",
+      "Car": "McLaren Mercedes",
+      "Pts": 44
+    },
+    {
+      "Pos": 2,
+      "Driver": "Max Verstappen",
+      "Nationality": "NED",
+      "Car": "Red Bull Racing Honda RBPT",
+      "Pts": 36
+    },
+    {
+      "Pos": 3,
+      "Driver": "George Russell",
+      "Nationality": "GBR",
+      "Car": "Mercedes",
+      "Pts": 35
+    },
+    {
+      "Pos": 4,
+      "Driver": "Oscar Piastri",
+      "Nationality": "AUS",
+      "Car": "McLaren Mercedes",
+      "Pts": 34
+    },
+    {
+      "Pos": 5,
+      "Driver": "Kimi Antonelli",
+      "Nationality": "ITA",
+      "Car": "Mercedes",
+      "Pts": 22
+    },
+    {
+      "Pos": 6,
+      "Driver": "Alexander Albon",
+      "Nationality": "THA",
+      "Car": "Williams Mercedes",
+      "Pts": 16
+    },
+    {
+      "Pos": 7,
+      "Driver": "Esteban Ocon",
+      "Nationality": "FRA",
+      "Car": "Haas Ferrari",
+      "Pts": 10
+    },
+    {
+      "Pos": 8,
+      "Driver": "Lance Stroll",
+      "Nationality": "CAN",
+      "Car": "Aston Martin Aramco Mercedes",
+      "Pts": 10
+    },
+    {
+      "Pos": 9,
+      "Driver": "Lewis Hamilton",
+      "Nationality": "GBR",
+      "Car": "Ferrari",
+      "Pts": 9
+    },
+    {
+      "Pos": 10,
+      "Driver": "Charles Leclerc",
+      "Nationality": "MON",
+      "Car": "Ferrari",
+      "Pts": 8
+    },
+    {
+      "Pos": 11,
+      "Driver": "Nico Hulkenberg",
+      "Nationality": "GER",
+      "Car": "Kick Sauber Ferrari",
+      "Pts": 6
+    },
+    {
+      "Pos": 12,
+      "Driver": "Oliver Bearman",
+      "Nationality": "GBR",
+      "Car": "Haas Ferrari",
+      "Pts": 4
+    },
+    {
+      "Pos": 13,
+      "Driver": "Yuki Tsunoda",
+      "Nationality": "JPN",
+      "Car": "Red Bull Racing Honda RBPT",
+      "Pts": 3
+    },
+    {
+      "Pos": 14,
+      "Driver": "Carlos Sainz",
+      "Nationality": "ESP",
+      "Car": "Williams Mercedes",
+      "Pts": 1
+    },
+    {
+      "Pos": 15,
+      "Driver": "Isack Hadjar",
+      "Nationality": "FRA",
+      "Car": "Racing Bulls Honda RBPT",
+      "Pts": 0
+    },
+    {
+      "Pos": 16,
+      "Driver": "Pierre Gasly",
+      "Nationality": "FRA",
+      "Car": "Alpine Renault",
+      "Pts": 0
+    },
+    {
+      "Pos": 17,
+      "Driver": "Liam Lawson",
+      "Nationality": "NZL",
+      "Car": "Racing Bulls Honda RBPT",
+      "Pts": 0
+    },
+    {
+      "Pos": 18,
+      "Driver": "Jack Doohan",
+      "Nationality": "AUS",
+      "Car": "Alpine Renault",
+      "Pts": 0
+    },
+    {
+      "Pos": 19,
+      "Driver": "Gabriel Bortoleto",
+      "Nationality": "BRA",
+      "Car": "Kick Sauber Ferrari",
+      "Pts": 0
+    }
+  ]
+}
